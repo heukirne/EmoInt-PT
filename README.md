@@ -1,2 +1,2 @@
-# EmoInt-PT
-Emotion Intensities for Portuguese
+# SelfEmoInt-PT
+Self Emotion Intensities for Portuguese
